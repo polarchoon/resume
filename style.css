@@ -7,14 +7,14 @@ h1{
 h1,h2{
 	text-align: center;
 	color: blue;
-	font-size: 18px;
+	
 
 }
 
-h2{
+h2,h3{
+	font-size: 20px;
 	text-decoration: underline;
 }
-
 p,ul{
 	border:solid;
 	padding-top: 10 px;
